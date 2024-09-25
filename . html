@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Echoes of Eternity</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Echoes of Eternity</h1>
+  </header>
+  <main>
+    <section>
+      <h2>Game Overview</h2>
+      <p>Restore balance to the timestream...</p>
+    </section>
+    <section>
+      <h2>Gameplay Features</h2>
+      <ul>
+        <li>Time manipulation</li>
+        <li>Elemental magic</li>
+        <li>Combat mastery</li>
+      </ul>
+    </section>
+  </main>
+  <footer>
+    <p>&copy; 2024 Echoes of Eternity</p>
+  </footer>
+  <script src="script.js"></script>
+</body>
+</html>
